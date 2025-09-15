@@ -1,7 +1,6 @@
 # 🎯 Lung Cancer Detection Using Deep Learning & Machine Learning
 
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*LyR3_8eTI9_kVSF7bU5K6A.png" width="600" alt="Lung Cancer Detection">
   <br>
   <em>Multi-class image classification and binary survey-based prediction for lung cancer detection</em>
 </div>
